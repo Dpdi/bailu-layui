@@ -1,0 +1,35 @@
+
+
+
+
+
+header{
+	width: 100%;
+	background-color: #1a1a1a;
+	border: 1px solid red;
+}
+.header-main{
+	width: 80%;
+	margin: 0 auto;
+}
+.m-l{
+	color: #fff;
+}
+.m-c{
+
+}
+.m-c ul{
+	display: flex;
+	justify-content:space-between;
+}
+.m-c ul li a{
+	color: #fff;
+}
+.m-r{
+	background-color: ##487AF6;
+	border-radius: 50px; 
+}
+
+
+
+

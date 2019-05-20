@@ -99,8 +99,18 @@ header{
 .con_tj img{
 	width: 100%;
 }
-.tj_a{
-	
+.tj_b{
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px #000;
+}
+.tj_b dl img{
+	border-radius: 10px 10px 0 0;
+}
+.tj_b dl dt{
+	border-radius: 10px 10px 0 0;
+}
+.tj_b dl dd{
+	color: #A4A2A2;
 }
 
 

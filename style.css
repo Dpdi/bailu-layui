@@ -188,6 +188,10 @@ header{
 	color: #fff;
 	text-align: center;
 }
+.xiao p{
+	text-align: center;
+	color: #B5C0D4;
+}
 
 
 
@@ -195,7 +199,11 @@ header{
 	background: #5C6679;
 }
 .footer_b p{
+	padding: 10px;
 	color: #fff;
+	font-size: 10px;
+	text-align: center;
+}
 
 
 

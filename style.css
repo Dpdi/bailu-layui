@@ -137,6 +137,9 @@ header{
 .con_bk{
 	border: 1px solid red;
 }
+.con_bk img{
+	width: 100%;
+}
 
 
 
@@ -144,6 +147,55 @@ header{
 
 
 
+
+
+
+
+/* --------------------------------------合作伙伴----------------------------------------------- */
+.hzhb{
+	background-color: #F7FAFC;
+	padding: 40px 0;
+}
+
+
+
+
+
+/* ------------------------------------------footer---------------------------------------------- */
+.footer_top{
+	background-image: url(./img/footer.png)
+}
+.fmain{
+	width: 70%;
+	margin: 0 auto;
+}
+.fmain ul{
+	display: flex;
+	justify-content:space-between;
+}
+.fmain li{
+	color: #fff;
+	padding: 50px 0;
+}
+.QQ{
+	margin: 25px 0;
+	border-left: 1px solid#8791A5;
+}
+.QQ img{
+	margin: 5px;
+}
+.QQ p{
+	color: #fff;
+	text-align: center;
+}
+
+
+
+.footer_b{
+	background: #5C6679;
+}
+.footer_b p{
+	color: #fff;
 
 
 

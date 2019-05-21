@@ -100,8 +100,9 @@ header{
 	width: 100%;
 }
 .tj_b{
+	padding: 10px;
 	border-radius: 10px;
-	box-shadow: 2px 2px 2px #000;
+	box-shadow: 2px 2px 2px rgb(177, 175, 175);
 }
 .tj_b dl img{
 	border-radius: 10px 10px 0 0;
@@ -112,6 +113,26 @@ header{
 .tj_b dl dd{
 	color: #A4A2A2;
 }
+
+
+
+
+.con_dt{
+	margin-top: 40px;
+}
+.con_dt p{
+	font-size: 23px;
+}
+.dt_a{
+
+}
+.dt_a img{
+	width: 100%;
+}
+.dt_a p{
+	font-size: 16px;
+}
+
 
 
 

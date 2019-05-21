@@ -100,9 +100,7 @@ header{
 	width: 100%;
 }
 .tj_b{
-	padding: 10px;
-	border-radius: 10px;
-	box-shadow: 2px 2px 2px rgb(177, 175, 175);
+	border-radius: 10px
 }
 .tj_b dl img{
 	border-radius: 10px 10px 0 0;
@@ -130,7 +128,14 @@ header{
 	width: 100%;
 }
 .dt_a p{
-	font-size: 16px;
+	padding: 20px;
+	font-size: 14px;
+}
+
+
+
+.con_bk{
+	border: 1px solid red;
 }
 
 

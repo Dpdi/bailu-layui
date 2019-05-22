@@ -6,7 +6,7 @@
 header{
 	width: 100%;
 	background-color: #1a1a1a;
-	border: 1px solid red;
+	/* border: 1px solid red; */
 }
 .header-main{
 	width: 80%;
@@ -59,11 +59,11 @@ header{
 .content{
 	width: 70%;
 	margin: 0 auto;
-	border: 1px solid red;
+	/* border: 1px solid red; */
 }
 .con_yq{
 	margin-top: 50px;
-	border: 1px solid red;
+	/* border: 1px solid red; */
 }
 .con_yq p ,.con_tj p{
 	font-size: 23px;
@@ -84,7 +84,7 @@ header{
 	color: #87888C;
 }
 .yq_t{
-	border: 1px solid red;
+	/* border: 1px solid red; */
 }
 .yq_t img{
 	width: 27px;
@@ -135,7 +135,7 @@ header{
 
 
 .con_bk{
-	border: 1px solid red;
+	/* border: 1px solid red; */
 }
 .con_bk img{
 	width: 100%;
